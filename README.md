@@ -16,7 +16,7 @@ This is a simple React application that showcases a testimonials carousel using 
 
 ```bash
 git clone https://github.com/yourusername/testimonials-carousel.git
-cd testimonials-carousel
+cd Starter
 ```
 2. Install dependencies:
 ```bash
